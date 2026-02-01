@@ -1,0 +1,14 @@
+# Virtual environments
+radar_env/
+Medical_Chatbot*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large generated files (optional)
+# radar_cnn_model.keras
